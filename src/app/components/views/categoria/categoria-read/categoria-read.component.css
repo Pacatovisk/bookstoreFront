@@ -17,6 +17,10 @@ button {
     margin-bottom: .8rem;
 }
 
+ .mat-stroked-button.mat-primary {
+    color: rgb(85, 16, 3);
+}
+
 .table {
     width: 100%;
 }
