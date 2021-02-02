@@ -57,4 +57,9 @@ export class LivroCreateComponent implements OnInit {
     }
      return false;
   }
+
+  cancel(): void {
+    this.router.navigate([`categorias/${this.id_cat}/livros`])
+  }
+
 }
