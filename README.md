@@ -1,6 +1,8 @@
 # BookstoreFront
 
-Link do projeto em produção: https://pacatovisk.github.io/bookstore/
+Link do projeto em produção v2: https://pacatovisk.github.io/spaceBookstore/
+Link do projeto em produção v1: https://pacatovisk.github.io/bookstore/
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
